@@ -1,0 +1,1 @@
+Exemplo para mostrar saidas de texto com e sem processamento

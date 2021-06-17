@@ -1,0 +1,1 @@
+Exemplo para mostrar concatenação entre strings

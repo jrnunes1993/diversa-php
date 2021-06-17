@@ -1,0 +1,1 @@
+Exemplo mostrando a diferença entre Server Side e Client Side
